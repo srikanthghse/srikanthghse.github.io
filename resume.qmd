@@ -2,50 +2,66 @@
 layout: cv
 title: Srikanth Gubbala's CV
 ---
-# Srikanth Gubbala
-Brigham Young University - Idaho
 
-<div id="LinkedIn address">
-<a href="https://www.linkedin.com/in/srikanthgubbala/">LinkedIn</a>
+# Srikanth Gubbala
+**Brigham Young University - Idaho**
+
+<div id="contact-info">
+<a href="https://www.linkedin.com/in/srikanthgubbala/" target="_blank">LinkedIn</a>
 </div>
 
+---
 
 ## Currently
+**Student**
 
-Student
+---
 
-### Specialized in
+## Specialized In
+- Data Visualization Analyst @ BYUI  
+- Aspiring Business Intelligence Professional  
+- Business Analyst  
+- Power BI, SQL, Excel, DAX  
+- Data Visualization, Leadership, Process Optimization  
 
-Data Visualization Analyst @ BYUI | Aspiring Business Intelligence Professional | Business Analyst | Power BI | SQL | Excel | DAX | Data Visualization | Leadership | Process Optimization
+---
 
-### interests
+## Interests
+- Power Automate  
+- Data Integration  
+- Data Visualization  
 
-Power Automate, Data Intigration and Data Visualization
-
+---
 
 ## Education
-
+**Bachelors of Science, Business Analytics**  
+_Minor: Data Science_  
+**Brigham Young University - Idaho**  
 `2021 - 2025`
-_Major: Bachelors of Science, Business Analytics_
-_Minor: Data Science_
-__Brigham Young University - Idaho__
 
+---
 
-## Experince
-`October 2024 - Present`
-__Brigham Young University - Idaho__
-_Data Visualization Analyst_
-_Part-time_
-_Designed and implemented 20+ interactive dashboards leveraging SQL, Power BI, and Azure Data Studio to provide data-driven insights for business decision-making. Conducted data manipulation, regression analysis, and statistical modeling to improve process optimization by 30%. Developed and automated Power Automate flows and Excel Macros, enhancing workflow efficiency, and used Visualization Software to reduce manual work by 90%._
+## Experience
 
-`September 2023 - September 2024`
-__Brigham Young University - Idaho__
-_IT Service Desk Shift Lead_
-_Part-time_
-_Led a team of 10 to troubleshoot IT issues in BYU-Idaho, emphasizing problem-solving and communication to ensure quick resolutions._
-_Assist agents with phone calls and chat interactions by providing instructions and guidance to ensure they achieve optimal solutions for customer requests. Help and support the team in establishing goals and evaluating performance using quality assurance metrics and KPIs._
+### Data Visualization Analyst  
+**Brigham Young University - Idaho**  
+_Part-time_  
+`October 2024 - Present`  
+- Designed and implemented 20+ interactive dashboards using SQL, Power BI, and Azure Data Studio to provide data-driven insights for business decision-making.  
+- Conducted data manipulation, regression analysis, and statistical modeling, improving process optimization by 30%.  
+- Developed and automated Power Automate flows and Excel Macros, enhancing workflow efficiency and reducing manual work by 90%.  
 
+---
+
+### IT Service Desk Shift Lead  
+**Brigham Young University - Idaho**  
+_Part-time_  
+`September 2023 - September 2024`  
+- Led a team of 10 to troubleshoot IT issues at BYU-Idaho, emphasizing problem-solving and communication to ensure quick resolutions.  
+- Assisted agents with phone calls and chat interactions by providing instructions and guidance to achieve optimal solutions for customer requests.  
+- Supported the team in establishing goals and evaluating performance using quality assurance metrics and KPIs.  
+
+---
 
 <!-- ### Footer
-
 Last updated: April 2025 -->
