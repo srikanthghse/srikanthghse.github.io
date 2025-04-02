@@ -1,89 +1,51 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Srikanth Gubbala's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Srikanth Gubbala
+Brigham Young University - Idaho
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="LinkedIn address">
+<a href="https://www.linkedin.com/in/srikanthgubbala/">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Student
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data Visualization Analyst @ BYUI | Aspiring Business Intelligence Professional | Business Analyst | Power BI | SQL | Excel | DAX | Data Visualization | Leadership | Process Optimization
 
+### interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Power Automate, Data Intigration and Data Visualization
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2021 - 2025`
+_Major: Bachelors of Science, Business Analytics_
+_Minor: Data Science_
+__Brigham Young University - Idaho__
 
 
+## Experince
+`October 2024 - Present`
+__Brigham Young University - Idaho__
+_Data Visualization Analyst_
+_Part-time_
+_Designed and implemented 20+ interactive dashboards leveraging SQL, Power BI, and Azure Data Studio to provide data-driven insights for business decision-making. Conducted data manipulation, regression analysis, and statistical modeling to improve process optimization by 30%. Developed and automated Power Automate flows and Excel Macros, enhancing workflow efficiency, and used Visualization Software to reduce manual work by 90%._
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`September 2023 - September 2024`
+__Brigham Young University - Idaho__
+_IT Service Desk Shift Lead_
+_Part-time_
+_Led a team of 10 to troubleshoot IT issues in BYU-Idaho, emphasizing problem-solving and communication to ensure quick resolutions._
+_Assist agents with phone calls and chat interactions by providing instructions and guidance to ensure they achieve optimal solutions for customer requests. Help and support the team in establishing goals and evaluating performance using quality assurance metrics and KPIs._
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
